@@ -15,7 +15,7 @@ https://viacep.com.br/
 
   o terminal: 
    ```bash
-  git clone https://github.com/seu-usuario/api-consulta-cep-spring-boot.git
+  git clone https://github.com/Eduardo1985S/rest-template.git
 ```
 
 ### teste api 

@@ -11,12 +11,13 @@ https://viacep.com.br/
 
 ## Como Usar
 
-1. Clone este repositório em seu ambiente de desenvolvimento:
+### Clone este repositório em seu ambiente de desenvolvimento:
 
-  -o terminal: 
+  o terminal: 
+   ```bash
   git clone https://github.com/seu-usuario/api-consulta-cep-spring-boot.git
+```
 
-
-2. teste api 
-   -No Postman:
-   GET: localhost:8080/consulta-cep/
+### teste api 
+   * No Postman:
+   * GET: localhost:8080/consulta-cep/
